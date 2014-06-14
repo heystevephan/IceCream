@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dp">
+    <ImageButton
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton1" />
+    <RelativeLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/relativeLayout1">
+        <TextView
+            android:text="Display Name"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:layout_alignBaseline="@+id/SignUpPage2DisplayName" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SignUpPage2DisplayName"
+            android:layout_toRightOf="@+id/textView1" />
+        <TextView
+            android:text="Mobile Number"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2"
+            android:layout_below="@+id/SignUpPage2DisplayName"
+            android:layout_alignBaseline="@+id/SignUpPage2MobileNumber" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SignUpPage2MobileNumber"
+            android:layout_toRightOf="@+id/textView2"
+            android:layout_below="@+id/SignUpPage2DisplayName" />
+        <TextView
+            android:text="Email"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:layout_below="@+id/SignUpPage2MobileNumber"
+            android:layout_alignBaseline="@+id/SignUpPage2Email" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SignUpPage2Email"
+            android:layout_below="@+id/SignUpPage2MobileNumber"
+            android:layout_toRightOf="@+id/textView3" />
+        <TextView
+            android:text="Gender"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:layout_below="@+id/SignUpPage2Email"
+            android:layout_marginTop="5dp" />
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SignUpPage2Gender"
+            android:spinnerMode="dropdown"
+            android:entries="Male,Female"
+            android:layout_below="@+id/SignUpPage2Email"
+            android:layout_toRightOf="@+id/textView4"
+            android:layout_alignBaseline="@+id/textView4" />
+        <TextView
+            android:text="//General Information//"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5"
+            android:layout_centerInParent="true"
+            android:gravity="bottom"
+            android:layout_above="@+id/button1"
+            android:layout_marginBottom="20dp" />
+        <Button
+            android:text="Next"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:id="@+id/button1"
+            android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</LinearLayout>

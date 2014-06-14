@@ -107,6 +107,8 @@
     <AndroidResource Include="Resources\layout\SignInPage.axml" />
     <AndroidResource Include="Resources\layout\SignUpPage1Membership.axml" />
     <AndroidResource Include="Resources\layout\SignUpPage2GeneralInfo.axml" />
+    <AndroidResource Include="Resources\layout\SignUpPage2GeneralInfoRelative.axml" />
+    <AndroidResource Include="Resources\layout\SignUpPage1MembershipRelative.axml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\Strings.xml" />

@@ -978,9 +978,8 @@ Reference : http://www.computerhope.com/htmcolor.htm , http://www.color-hex.com/
         public static final int drawable=0x7f020001;
         public static final int ic_action_search=0x7f020002;
         public static final int icon=0x7f020003;
-        public static final int monoandroidsplash=0x7f020004;
-        public static final int pc_background1=0x7f020005;
-        public static final int pc_test_logo=0x7f020006;
+        public static final int pc_background1=0x7f020004;
+        public static final int pc_test_logo=0x7f020005;
     }
     public static final class id {
         public static final int Button_MakeFriends=0x7f090005;
@@ -997,7 +996,7 @@ Reference : http://www.computerhope.com/htmcolor.htm , http://www.color-hex.com/
         public static final int SignUpPage1_Password=0x7f090016;
         public static final int SignUpPage1_PasswordConfirm=0x7f090018;
         public static final int SignUpPage1_Username=0x7f090015;
-        public static final int action_search=0x7f09001a;
+        public static final int action_search=0x7f09001b;
         public static final int autoCompleteTextView1=0x7f090010;
         public static final int checkBox_gender=0x7f09000d;
         public static final int editText1=0x7f090012;
@@ -1006,6 +1005,7 @@ Reference : http://www.computerhope.com/htmcolor.htm , http://www.color-hex.com/
         public static final int imageView1=0x7f09000f;
         public static final int linearLayout1=0x7f090000;
         public static final int relativeLayout1=0x7f09000c;
+        public static final int spinner1=0x7f09001a;
         public static final int spinner_gender=0x7f09000e;
         public static final int textView1=0x7f090001;
         public static final int textView2=0x7f090011;
@@ -1021,8 +1021,10 @@ Reference : http://www.computerhope.com/htmcolor.htm , http://www.color-hex.com/
         public static final int makefriends=0x7f030006;
         public static final int signinpage=0x7f030007;
         public static final int signuppage1membership=0x7f030008;
-        public static final int signuppage2generalinfo=0x7f030009;
-        public static final int storytab=0x7f03000a;
+        public static final int signuppage1membershiprelative=0x7f030009;
+        public static final int signuppage2generalinfo=0x7f03000a;
+        public static final int signuppage2generalinforelative=0x7f03000b;
+        public static final int storytab=0x7f03000c;
     }
     public static final class menu {
         public static final int activity_main_actions=0x7f080000;
@@ -1044,12 +1046,6 @@ Reference : http://www.computerhope.com/htmcolor.htm , http://www.color-hex.com/
         /** 		<item name="android:actionBarTabStyle">@style/MyActionBarTabBackground</item> 
          */
         public static final int MainActionBarTheme=0x7f070000;
-        /** -	<style name="MyActionBarTabBackground" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
-		<item name="android:background">@drawable/PC_background1.png</item>
-	</style>
-	
-         */
-        public static final int Mono_Android_Theme_Splash=0x7f070002;
         public static final int MyActionBar=0x7f070001;
     }
 }
