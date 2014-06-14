@@ -16,64 +16,59 @@
         android:layout_height="match_parent"
         android:id="@+id/relativeLayout1">
         <TextView
-            android:text="Display Name"
+            android:text="Country"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView1"
-            android:layout_alignBaseline="@+id/SignUpPage2DisplayName" />
-        <EditText
-            android:layout_width="match_parent"
+            android:layout_alignBaseline="@+id/SignUpPage3Country" />
+        <Spinner
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/SignUpPage2DisplayName"
-            android:layout_toRightOf="@+id/textView1" />
+            android:id="@+id/SignUpPage3Country"
+            android:layout_toRightOf="@+id/textView1"
+            android:entries="USA,Puerto Rico"
+            android:layout_alignParentRight="true"
+            android:spinnerMode="dropdown"
+            android:gravity="center" />
         <TextView
-            android:text="Mobile Number"
+            android:text="State"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView2"
-            android:layout_below="@+id/SignUpPage2DisplayName"
-            android:layout_alignBaseline="@+id/SignUpPage2MobileNumber" />
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/SignUpPage2MobileNumber"
-            android:layout_toRightOf="@+id/textView2"
-            android:layout_below="@+id/SignUpPage2DisplayName" />
-        <TextView
-            android:text="Email"
-            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_below="@+id/SignUpPage3Country"
+            android:layout_alignBaseline="@+id/SignUpPage3State" />
+        <Spinner
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView3"
-            android:layout_below="@+id/SignUpPage2MobileNumber"
-            android:layout_alignBaseline="@+id/SignUpPage2Email" />
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/SignUpPage2Email"
-            android:layout_below="@+id/SignUpPage2MobileNumber"
-            android:layout_toRightOf="@+id/textView3" />
+            android:id="@+id/SignUpPage3State"
+            android:entries="Maryland, California"
+            android:layout_toRightOf="@+id/textView2"
+            android:layout_below="@+id/SignUpPage3Country"
+            android:layout_marginTop="20dp"
+            android:layout_alignParentRight="true" />
         <TextView
-            android:text="Gender"
+            android:text="City"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView4"
-            android:layout_below="@+id/SignUpPage2Email"
-            android:layout_marginTop="5dp" />
+            android:layout_below="@+id/SignUpPage3State"
+            android:layout_marginTop="5dp"
+            android:layout_alignBaseline="@+id/SignUpPage3City" />
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SignUpPage2Gender"
+            android:id="@+id/SignUpPage3City"
             android:spinnerMode="dropdown"
             android:entries="Male,Female"
-            android:layout_below="@+id/SignUpPage2Email"
+            android:layout_below="@+id/SignUpPage3State"
             android:layout_toRightOf="@+id/textView4"
-            android:layout_alignBaseline="@+id/textView4" />
+            android:layout_marginTop="20dp"
+            android:layout_alignParentRight="true" />
         <TextView
-            android:text="//General Information//"
+            android:text="//Location//"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
