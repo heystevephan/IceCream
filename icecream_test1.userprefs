@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="icecream_test1\MainActivity.cs">
+    <Files>
+      <File FileName="icecream_test1\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="icecream_test1\Resources\menu\activity_main_actions.xml" Line="1" Column="1" />
+      <File FileName="icecream_test1\Resources\values\Styles.xml" Line="1" Column="1" />
+      <File FileName="icecream_test1\Adapters\ContactsAdapter.cs" Line="1" Column="1" />
+      <File FileName="icecream_test1\Resources\drawable\drawable.xml" Line="1" Column="1" />
+      <File FileName="icecream_test1\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="icecream_test1\MakeFriendsActivity.cs" Line="1" Column="1" />
+      <File FileName="icecream_test1\FirstActivity.cs" Line="1" Column="1" />
+      <File FileName="icecream_test1\SignInActivity.cs" Line="1" Column="1" />
+      <File FileName="icecream_test1\Database\SqliteClasses.cs" Line="1" Column="1" />
+      <File FileName="icecream_test1\SignUpFlowActivity.cs" Line="1" Column="1" />
+      <File FileName="icecream_test1\Resources\Resource.Designer.cs" Line="1" Column="1" />
+      <File FileName="Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\MainActivity.cs" Line="39" Column="89" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\MainActivity.cs" line="38" offsetX="998" offsetY="592" expression="DB" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.icecream__test1 MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Debug="524a4e74" />
+</Properties>

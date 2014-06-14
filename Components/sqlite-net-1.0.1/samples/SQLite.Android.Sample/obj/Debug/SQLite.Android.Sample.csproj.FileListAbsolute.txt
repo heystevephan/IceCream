@@ -1,0 +1,17 @@
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\bin\Debug\SQLite.Android.Sample.dll
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\bin\Debug\SQLite.Android.Sample.pdb
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\bin\Debug\SQLite.Android.Sample.dll.mdb
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\bin\Debug\SQLite.Android.Sample.apk
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\bin\Debug\SQLite.Android.Sample-Signed.apk
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\bin\Debug\SQLite.dll
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\bin\Debug\SQLite.pdb
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\bin\Debug\SQLite.dll.mdb
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\obj\Debug\SQLite.Android.Sample.dll
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\obj\Debug\SQLite.Android.Sample.pdb
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\obj\Debug\android\bin\SQLite.Android.Sample.apk
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\obj\Debug\res\layout\namedialog.xml
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\obj\Debug\res\layout\listitem.xml
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\obj\Debug\res\values\strings.xml
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\obj\Debug\res\drawable\icon.png
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\obj\Debug\R.cs.flag
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\obj\Debug\uploadflags.txt

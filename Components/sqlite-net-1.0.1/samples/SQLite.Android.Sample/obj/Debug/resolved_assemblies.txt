@@ -1,0 +1,2 @@
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\samples\SQLite.Android.Sample\bin\Debug\SQLite.Android.Sample.dll
+C:\Users\taozh_000\Desktop\XamarinApps\samples\icecream_test1\Components\sqlite-net-1.0.1\lib\android\SQLite.dll

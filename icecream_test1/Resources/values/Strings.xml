@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">PlayChat</string>
+    <string name="action_search">Search</string>
+    <string name="profile">Profile</string>
+	<string name="Chat">Profile</string>
+	<string name="Story">Profile</string>
+	<string name="Explore">Profile</string>
+	<string name="Friends">Profile</string>
+
+
+
+
+
+	<!---Make Friends Spinners -->
+    <string name="gender"> </string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,45 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
+    <Files>
+      <File FileName="..\..\..\..\icecream_test1\MainActivity.cs" Line="144" Column="8" />
+      <File FileName="..\..\..\..\icecream_test1\Resources\menu\activity_main_actions.xml" Line="1" Column="1" />
+      <File FileName="..\..\..\..\icecream_test1\Resources\values\Styles.xml" Line="1" Column="1" />
+      <File FileName="..\..\..\..\icecream_test1\Adapters\ContactsAdapter.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\icecream_test1\Resources\drawable\drawable.xml" Line="1" Column="1" />
+      <File FileName="..\..\..\..\icecream_test1\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="..\..\..\..\icecream_test1\MakeFriendsActivity.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\icecream_test1\FirstActivity.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\icecream_test1\SignInActivity.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\icecream_test1\Database\SqliteClasses.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\icecream_test1\SignUpFlowActivity.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\icecream_test1\Resources\Resource.Designer.cs" Line="1" Column="1" />
+      <File FileName="MainActivity.cs" Line="62" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="icecream_test1" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="ComponentReferenceFolder" expanded="True" />
+            <Node name="Adapters" expanded="True" />
+            <Node name="Assets" expanded="True" />
+            <Node name="Database" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="drawable" expanded="True" />
+              <Node name="layout" expanded="True" />
+              <Node name="menu" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="MainActivity.cs" line="38" offsetX="998" offsetY="592" expression="DB" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.SQLite.Android.Sample AndroidDeviceId-Debug="524a4e74" />
+</Properties>

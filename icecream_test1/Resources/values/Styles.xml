@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<resources>
+	<style name="MainActionBarTheme" parent="@android:style/Theme.Holo.Light">
+		<item name="android:actionBarStyle">@style/MyActionBar</item>
+<!--		<item name="android:actionBarTabStyle">@style/MyActionBarTabBackground</item> -->
+	</style>
+
+	<style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+		<item name="android:background">#ADFF2F</item>
+	</style>
+
+<!---	<style name="MyActionBarTabBackground" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+		<item name="android:background">@drawable/PC_background1.png</item>
+	</style>
+	-->
+</resources>
